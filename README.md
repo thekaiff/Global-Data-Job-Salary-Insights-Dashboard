@@ -1,0 +1,2 @@
+# Global-Data-Job-Salary-Insights-Dashboard
+This project showcases a comprehensive Excel Salary Dashboard analyzing real-world 2023 data job salaries across multiple roles and countries. Built using advanced Excel analytics, it uncovers actionable insights into salary trends, job types, and market disparities, empowering data professionals, recruiters, and HR teams to benchmark compensation, identify pay gaps, and make informed, data-driven decisions about fair and competitive pay.
