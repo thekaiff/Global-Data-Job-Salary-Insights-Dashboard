@@ -146,6 +146,8 @@ Next Steps: Incorporate predictive modeling (using Python) to forecast salary tr
 > ![Excel Salary Dashboard](./dashboard/Job_Salary_Dashboard.gif)
 > ```
 
+![Excel Salary Dashboard](./dashboard/Job_Salary_Dashboard.gif)
+
 ---
 
 ⭐ **If you found this project insightful, don’t forget to star ⭐ this repository!**  
