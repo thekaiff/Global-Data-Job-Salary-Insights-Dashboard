@@ -29,6 +29,16 @@ This project was designed to answer key questions:
 
 ---
 
+## 🖼️ Dashboard Preview:
+
+> ```markdown
+> ![Excel Salary Dashboard](./dashboard/Job_Salary_Dashboard.gif)
+> ```
+
+![Excel Salary Dashboard](./dashboard/Job_Salary_Dashboard.gif)
+
+---
+
 ## 🔍 Methodology
 
 ### Approach:
@@ -137,16 +147,6 @@ Next Steps: Incorporate predictive modeling (using Python) to forecast salary tr
 - Learned to transform raw job data into strategic insights for business decisions.
 
 - Understood how simple descriptive analytics can create real-world impact for recruiters and professionals alike.
-
----
-
-## 🖼️ Dashboard Preview:
-
-> ```markdown
-> ![Excel Salary Dashboard](./dashboard/Job_Salary_Dashboard.gif)
-> ```
-
-![Excel Salary Dashboard](./dashboard/Job_Salary_Dashboard.gif)
 
 ---
 
